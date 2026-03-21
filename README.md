@@ -71,26 +71,32 @@ s.close()
 ## Output
 
 Client
+
 <img width="783" height="248" alt="image" src="https://github.com/user-attachments/assets/ad706305-c864-4439-9c67-f55f81ee4e67" />
 
 
 Server
+
 <img width="781" height="189" alt="image" src="https://github.com/user-attachments/assets/2e84f279-0e51-423f-a645-b9783501bb66" />
 
 
 netstat
+
 <img width="615" height="700" alt="image" src="https://github.com/user-attachments/assets/eb3eb1c1-e548-4284-9493-aefbb1de1ffb" />
 
 
 ipconfig
+
 <img width="959" height="720" alt="image" src="https://github.com/user-attachments/assets/d1727b9f-26d1-477d-ae8d-fddad7a4e9cd" />
 
 
 nslookup
+
 <img width="959" height="723" alt="image" src="https://github.com/user-attachments/assets/25d4dc6f-2f69-448b-b853-2b150439cb33" />
 
 
 traceroute
+
 <img width="1165" height="497" alt="image" src="https://github.com/user-attachments/assets/63fceb10-7fc6-4b9e-96d1-2cfaf39fef62" />
 
 
