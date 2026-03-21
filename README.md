@@ -71,8 +71,10 @@ s.close()
 ## Output
 Client
 <img width="783" height="248" alt="image" src="https://github.com/user-attachments/assets/ad706305-c864-4439-9c67-f55f81ee4e67" />
+
 Server
 <img width="781" height="189" alt="image" src="https://github.com/user-attachments/assets/2e84f279-0e51-423f-a645-b9783501bb66" />
+
 netstat
 <img width="615" height="700" alt="image" src="https://github.com/user-attachments/assets/eb3eb1c1-e548-4284-9493-aefbb1de1ffb" />
 
